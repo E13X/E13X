@@ -1,5 +1,6 @@
 Releasing / leaking tool ;)
-https://discord.gg/E13
+
+-https://discord.gg/E13
 
 📫 How to reach me:-
   Discord - E13_
